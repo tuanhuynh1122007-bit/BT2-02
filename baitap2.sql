@@ -1,0 +1,1 @@
+SELECT * FROM baitap2.customers;
